@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "watch": "nodemon ./reduceExercise.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

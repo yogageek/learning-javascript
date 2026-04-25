@@ -1,0 +1,12 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple JavaScript practice project",
+  
+  "scripts": {
+    "main": "node ./sync/main.js"    
+
+  }
+}
+
